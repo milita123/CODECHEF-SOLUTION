@@ -1,5 +1,7 @@
-![logo](https://github.com/milita123/CODECHEF-SOLUTION/blob/main/coding.jpg)
-<h1 align="center">Hi 👋, I'm Milita Ghosh</h1>
+<p align="center"> <img src="https://i.makeagif.com/media/1-16-2018/eDAF91.gif"width="500" alt="milita123" /> </p>
+
+<h1 align="center">WELC🤗ME EVERY😊NE</h1>
+<h2 align="center">Hi 👋, I'm Milita Ghosh</h2>
 <h3 align="center">A passionate frontend developer and C/C++ programmer from India</h3>
 <img align="right" alt="coding"width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
