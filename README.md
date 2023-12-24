@@ -1,3 +1,4 @@
+![logo](https://github.com/milita123/CODECHEF-SOLUTION/blob/main/coding.jpg)
 <h1 align="center">Hi 👋, I'm Milita Ghosh</h1>
 <h3 align="center">A passionate frontend developer and C/C++ programmer from India</h3>
 <img align="right" alt="coding"width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
