@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.makeagif.com/media/1-16-2018/eDAF91.gif"width="500" alt="milita123" /> </p>
+<p align="center"> <img src="https://i.makeagif.com/media/1-16-2018/eDAF91.gif"width="400" alt="milita123" /> </p>
 
 <h1 align="center">WELC🤗ME EVERY😊NE</h1>
 <h2 align="center">Hi 👋, I'm Milita Ghosh</h2>
